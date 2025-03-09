@@ -4,13 +4,12 @@
 
 **Status:** Em construção 🚧
 
----
 
 ## 📋 Sobre o Projeto
 
 Este projeto foi criado com o objetivo de aprender e praticar Angular. Ainda está em desenvolvimento, então muitas funcionalidades estão sendo implementadas e aprimoradas.
 
----
+
 
 ## 🎯 Objetivo
 
@@ -19,7 +18,7 @@ O principal objetivo deste projeto é:
 - Praticar a criação de componentes, serviços, rotas e outras funcionalidades.
 - Desenvolver uma aplicação funcional e bem estruturada.
 
----
+
 
 ## 🛠️ Tecnologias Utilizadas
 
