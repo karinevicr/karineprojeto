@@ -1,0 +1,22 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "tarefa": "estudar angular",
+            "categoria": "faculdade",
+            "concluido": false
+        },
+        {
+            "id": 2,
+            "tarefa": "estudar react",
+            "categoria": "faculdade",
+            "concluido": false
+        },
+        {
+            "id": 3,
+            "tarefa": "estudar vue",
+            "categoria": "faculdade",
+            "concluido": false
+        }
+    ]
+}
