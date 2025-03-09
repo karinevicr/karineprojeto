@@ -3,7 +3,6 @@
 **Autor(a):** Karine Victoria  
 **Status:** Em construção 🚧
 
----
 
 ## 📋 Sobre o Projeto
 
@@ -11,7 +10,6 @@ Este projeto foi criado com o objetivo de aprender e praticar Angular, utilizand
 
 O projeto ainda está em desenvolvimento, portanto, muitas funcionalidades estão sendo implementadas e aprimoradas.
 
----
 
 ## 🎯 Objetivo
 
@@ -21,7 +19,6 @@ O principal objetivo deste projeto é:
 - Desenvolver uma aplicação funcional e bem estruturada.
 - Utilizar ferramentas como o **JSON Server** para simular uma API e testar a aplicação.
 
----
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -30,8 +27,6 @@ O principal objetivo deste projeto é:
 - **HTML/CSS** (Estrutura e estilização)
 - **JSON Server** (Simulação de API para testes)
 - **DeepSeek** (IA utilizada para auxiliar no desenvolvimento)
-
----
 
 ## 🚀 Como Executar o Projeto
 
